@@ -14,9 +14,6 @@ This GUI interface allows users to set parameters for the laser heating simulati
 
 ## Usage
 1. **Launch the GUI**: Run `GUI_DRA.py` to open the interface.
-   ```bash
-   python GUI_DRA.py
-   ```
 2. **Set Parameters**: Enter the laser and material properties in the designated fields.
 3. **Select Video for Comparison**: Use the file selection option to choose a video file.
 4. **Run Simulation**: Click **Submit** to start the simulation with the configured parameters.
@@ -29,6 +26,3 @@ This GUI interface allows users to set parameters for the laser heating simulati
 ## Dependencies
 - **CustomTkinter**: Used for a modern, interactive interface.
 - **Tkinter**: Standard Python library for GUI applications.
-
-## Example Run
-Launching the GUI allows users to configure all simulation parameters, ensuring flexibility and ease of use.
