@@ -53,7 +53,7 @@ def analyze_video(input_video_path):
     out.release()
     cv2.destroyAllWindows()
 
-analyze_video(r"C:\Users\Jugto\Desktop\DRA\CustomTkinter-master\output_video.mp4")
+analyze_video(r"output_video.mp4")
 
 def merge_videos(video_path1, video_path2, video_path3, video_path4):
     # Load the videos
@@ -80,8 +80,8 @@ def merge_videos(video_path1, video_path2, video_path3, video_path4):
 
 # Example of how to use the function
 merge_videos(
-    r"C:\Users\Jugto\Desktop\DRA\CustomTkinter-master\simulation_video_1.mp4",
-    r"C:\Users\Jugto\Desktop\DRA\CustomTkinter-master\test_video.mp4",
-    r"C:\Users\Jugto\Desktop\DRA\CustomTkinter-master\output_video.mp4",
-    r"C:\Users\Jugto\Desktop\DRA\CustomTkinter-master\SimilarityVideo.mp4"
+    r"simulation_video_1.mp4",
+    r"test_video.mp4",
+    r"output_video.mp4",
+    r"SimilarityVideo.mp4"
 )
