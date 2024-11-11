@@ -25,7 +25,7 @@ As part of the DRA, this project culminated in a presentation, where I shared th
 - Example output of the merged video showing similarity with green pixels for identical areas and red pixels for differences.
 
 ## Dean’s Research Awards Presentation
-![Presentation Slide](images/presentation.pptx.jpg)
+![Presentation Slide](images/presentation.pptx.png)
 - This project was presented as part of the Dean’s Research Awards. The presentation covered the project’s goals, methods, and potential applications in infrared technology.
 
 ## Credits
