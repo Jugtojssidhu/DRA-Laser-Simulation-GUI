@@ -33,6 +33,6 @@ class VideoPlayer(customtkinter.CTk):
         self.vid_player.play()  # Play the video
 
 if __name__ == "__main__":
-    video_path = r"C:\Users\Jugto\Desktop\DRA\CustomTkinter-master\merged_video.mp4"  # Change this to the path of your video file
+    video_path = r"merged_video.mp4"  # Change this to the path of your video file
     app = VideoPlayer(video_path)
     app.mainloop()
