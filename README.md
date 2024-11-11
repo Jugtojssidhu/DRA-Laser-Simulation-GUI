@@ -17,16 +17,16 @@ As part of the DRA, this project culminated in a presentation, where I shared th
 3. **Run Simulation**: Click **Submit** in the GUI to start the simulation, which will output a video comparing the input and simulated data.
 4. **View Results**: The final output includes merged videos and a similarity video that highlights pixel matches and mismatches.
 
+## Dean’s Research Awards Presentation
+![Presentation Slide](images/presentation.pptx.png)
+- This project was presented as part of the Dean’s Research Awards. The presentation covered the project’s goals, methods, and potential applications in infrared technology.
+
 ## Example Output
 ![GUI Screenshot](images/GUI_picture.png)
 - Screenshot of the GUI interface with user input options.
 
 ![Comparison Video Output](images/Video_photo.png)
 - Example output of the merged video showing similarity with green pixels for identical areas and red pixels for differences.
-
-## Dean’s Research Awards Presentation
-![Presentation Slide](images/presentation.pptx.png)
-- This project was presented as part of the Dean’s Research Awards. The presentation covered the project’s goals, methods, and potential applications in infrared technology.
 
 ## Credits
 - **Dr. Jason Myatt**, Professor at the University of Alberta, for guidance and project support.
