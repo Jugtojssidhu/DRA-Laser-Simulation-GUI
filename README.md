@@ -21,7 +21,7 @@ As part of the DRA, this project culminated in a presentation, where I shared th
 ![GUI Screenshot](images/GUI_picture.png)
 - Screenshot of the GUI interface with user input options.
 
-![Comparison Video Output](images/video_photo.png)
+![Comparison Video Output](images/Video_photo.png)
 - Example output of the merged video showing similarity with green pixels for identical areas and red pixels for differences.
 
 ## Dean’s Research Awards Presentation
